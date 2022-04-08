@@ -1,0 +1,9 @@
+html {
+	font-family: Arial;
+}
+
+body {
+	max-width: 800px;
+	padding: 30px;
+	margin: auto;
+}
